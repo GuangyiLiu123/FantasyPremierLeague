@@ -3,9 +3,13 @@ C++ Command Line Soccer Premier League Simulator. Uses multiple data structures(
 
 To use the program, first download the zip file and unzip it. Ensure that the
 muchmoreexpanded.csv is inside of the folder. Build using
-g++ -o main fpl.cpp
+
+`g++ -o main fpl.cpp`
+
 Run using
-./main
+
+`./main`
+
 You will see a number of options. Type the respective number and hit enter to do each.
 Brief description of each of the numbers
 1. Buy player allows you to manually buy a player. Type the player’s team name,
